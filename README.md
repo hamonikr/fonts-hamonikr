@@ -22,7 +22,7 @@ sudo apt install hamonikr-fonts
 ## 프로그램 삭제
 
 ```
-sudo apt purge hamonikr-zsh
+sudo apt purge hamonikr-fonts
 ```
 
 ## 버그 또는 이슈 제출
