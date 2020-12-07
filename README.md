@@ -14,7 +14,7 @@ Fonts for HamoniKR 4.0
 1) 하모니카 apt 저장소를 추가하고 업데이트
 ```
 curl -sL https://pkg.hamonikr.org/add-hamonikr.apt | sudo -E bash -
-sudo apt install hamonikr-fonts
+sudo apt install -y hamonikr-fonts
 ```
 설치 과정에 라이선스 동의화면이 나오면 Ok를 선택하세요.
 
