@@ -1,11 +1,14 @@
 # hamonikr-fonts
 
+하모니카 사용자들이 다른 운영체제의 폰트가 없어서 글씨가 깨어지는 경우
+설치해서 사용할 수 있는 추가 폰트입니다.
+
 Fonts for HamoniKR 4.0
 
- * KoPub
- * fake-Gulim
+ * KoPub (http://www.kopus.org/biz/electronic/font.aspx)
+ * fake-Gulim (https://moordev.tistory.com/176)
  * ms-core-fonts
- * mac fonts and others
+ * mac fonts and others (https://github.com/freshsomebody/mac-fonts/tree/master/macfonts)
 
 ## 프로그램 설치 (하모니카 1.4, 하모니카 3.0, 하모니카 4.0)
 
