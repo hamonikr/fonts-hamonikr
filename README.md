@@ -27,4 +27,4 @@ sudo apt purge hamonikr-fonts
 
 ## 버그 또는 이슈 제출
 
-사용 중 발견한 버그나 이슈는 help@hamonikr.org 로 메일을 보내주세요
+사용 중 발견한 버그나 이슈는 root@hamonikr.org 로 메일을 보내주세요
