@@ -1,0 +1,14 @@
+Source: hamonikr-fonts
+Section: x11
+Priority: optional
+Maintainer: Kevin Kim <root@hamonikr.org>
+Build-Depends: debhelper (>= 11)
+Vcs-Git: https://github.com/hamonikr/hamonikr-fonts
+Vcs-Browser: https://github.com/hamonikr/hamonikr-fonts
+Standards-Version: 4.3.0
+
+Package: hamonikr-fonts
+Architecture: all
+Depends: ttf-mscorefonts-installer, fonts-nanum
+Description: HamoniKR Jin Fonts
+ This package include the HamoniKR Jin fonts. 
