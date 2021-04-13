@@ -9,6 +9,8 @@ Fonts for HamoniKR 4.0
  * fake-Gulim (https://moordev.tistory.com/176)
  * ms-core-fonts
  * mac fonts and others (https://github.com/freshsomebody/mac-fonts/tree/master/macfonts)
+ * fake-malgun (https://moordev.tistory.com/336)
+ * wps-office-fonts for CJK
 
 ## 프로그램 설치 (하모니카 1.4, 하모니카 3.0, 하모니카 4.0)
 
