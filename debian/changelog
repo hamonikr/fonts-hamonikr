@@ -1,3 +1,10 @@
+hamonikr-fonts (1.1.0) focal; urgency=medium
+
+  * Add fake-malgun
+  * Add wps-fonts
+
+ -- HamoniKRTeam <pkg@hamonikr.org>  Tue, 13 Apr 2021 09:51:40 +0900
+
 hamonikr-fonts (1.0.1) focal; urgency=medium
 
   * Removed gulim of windows for license
