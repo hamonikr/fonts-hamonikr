@@ -1,3 +1,14 @@
+hamonikr-fonts (1.1.2) taebaek; urgency=medium
+
+  * Add new Korean fonts
+   - 이순신 폰트
+   - G마켓 산스
+   - Pretendard
+   - Gothic A1
+   - SUIT
+
+ -- HamoniKRTeam <pkg@hamonikr.org>  Sat, 22 Oct 2022 17:15:16 +0900
+
 hamonikr-fonts (1.1.0) focal; urgency=medium
 
   * Add fake-malgun
