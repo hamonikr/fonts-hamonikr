@@ -9,6 +9,6 @@ Standards-Version: 4.3.0
 
 Package: hamonikr-fonts
 Architecture: all
-Depends: ttf-mscorefonts-installer, fonts-nanum
+Depends: fonts-nanum
 Description: HamoniKR Jin Fonts
  This package include the HamoniKR Jin fonts. 
