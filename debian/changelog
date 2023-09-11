@@ -2,6 +2,7 @@ hamonikr-fonts (1.2.0) stable; urgency=medium
 
   * Add new fonts
    - Ubuntu Nerd, Hack Nerd, SourceCodePro Nerd fonts
+  * Change compat version as 10
 
  -- HamoniKRTeam <pkg@hamonikr.org>  Mon, 11 Sep 2023 11:33:05 +0900
 
