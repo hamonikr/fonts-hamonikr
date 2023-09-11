@@ -10,5 +10,5 @@ Standards-Version: 4.3.0
 Package: hamonikr-fonts
 Architecture: all
 Depends: fonts-nanum
-Description: HamoniKR Jin Fonts
- This package include the HamoniKR Jin fonts. 
+Description: HamoniKR OS Fonts
+ This package include the HamoniKR OS fonts. 
