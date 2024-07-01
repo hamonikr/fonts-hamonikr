@@ -1,3 +1,10 @@
+amonikr-fonts (1.2.2) stable; urgency=medium
+
+  * Release for ubuntu 24.04
+   - No change
+
+ -- HamoniKRTeam <pkg@hamonikr.org>  Mon, 01 Jul 2024 10:32:26 +0900
+
 hamonikr-fonts (1.2.1) stable; urgency=medium
 
   * Add new fonts
