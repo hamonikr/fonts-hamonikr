@@ -1,3 +1,10 @@
+hamonikr-fonts (1.2.2+h1) stable; urgency=medium
+
+  * Release for bookworm arm64
+   - No change
+
+ -- HamoniKRTeam <pkg@hamonikr.org>  Fri, 12 Jul 2024 02:17:38 +0900
+
 hamonikr-fonts (1.2.2) stable; urgency=medium
 
   * Release for ubuntu 24.04
