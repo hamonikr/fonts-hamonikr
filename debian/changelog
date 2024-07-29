@@ -1,3 +1,10 @@
+hamonikr-fonts (1.2.2+h2) paektu; urgency=medium
+
+  [Kevin Kim]
+  * Release for HamoniKR paektu
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 29 Jul 2024 15:18:59 +0900
+
 hamonikr-fonts (1.2.2+h1) stable; urgency=medium
 
   * Release for bookworm arm64
@@ -56,4 +63,3 @@ hamonikr-fonts (1.0.0) focal; urgency=medium
   * first release for HamoniKR 4.0
 
  -- HamoniKR <pkg@hamonikr.org>  Mon, 07 Dec 2020 09:48:37 +0900
-
