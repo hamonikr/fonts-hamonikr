@@ -1,3 +1,10 @@
+hamonikr-fonts (1.2.3) paektu; urgency=medium
+
+  [Kevin Kim]
+  * Add Melso Nerd font
+
+ -- HamoniKR <pkg@hamonikr.org>  Fri, 09 Aug 2024 22:51:57 +0900
+
 hamonikr-fonts (1.2.2+h2) paektu; urgency=medium
 
   [Kevin Kim]
