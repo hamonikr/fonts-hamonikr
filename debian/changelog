@@ -1,3 +1,12 @@
+hamonikr-fonts (1.2.4) paektu; urgency=medium
+
+  [Kevin Kim]
+  * Add 눈누 기초고딕(2024) font
+  * Add wanted-sans font
+  * Add Freesentation font
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 05 Dec 2024 12:54:05 +0900
+
 hamonikr-fonts (1.2.3) paektu; urgency=medium
 
   [Kevin Kim]
